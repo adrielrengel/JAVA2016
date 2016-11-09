@@ -8,6 +8,7 @@ import javax.enterprise.context.RequestScoped;
 public class Calc implements Serializable {
 
 	/**
+	 * lolololol
 	 * sessao tem um ciclo de vida
 	 * coloca o beam no estado de pasivação - dormir - para economizar recursos
 	 * sem anotação @requestedscoped
